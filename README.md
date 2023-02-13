@@ -82,19 +82,19 @@ Fadil vs phân khúc A:
 
 - So sánh trang bị từ brochure:
 
-  ![Image]()
+  <img src ="option-fadil.png"> 
 
   Fadil nổi trội hơn ở Động Cơ 1.4L, 98 Hp. Xe có hệ thống âm thanh 6 loa, hộp số vô cấp CVT. Tính năng an toàn đầy đủ. Hệ sinh thái Vingroup 
 
 - Bản đồ giá
 
-  ![Image]()
+  <img src ="price-map-fadil.png"> 
 
   Fadil không có sự chênh lệch giá bán, phiên bản cao cấp nhất các hãng đều khoảng 440 triệu
 
 - Doanh số bán hàng:
 
-  ![Image]()
+  <img src ="sale-fadil.png">
 
   Fadil có doanh số cao nhất năm 2021, chiếm % với xe được bán ra.
 
@@ -102,38 +102,38 @@ Lux A vs sedan hạng D:
 
 - So sánh trang bị từ brochure:
 
-  ![Image]()
+  <img src ="option-luxa.png">
 
   Lux A trang bị động cơ từ 174 đến 228 Hp mạnh mẽ nhất. Hộp số 8 cấp từ nhà sản xuất nổi tiếng ZF. Với trực cơ sở 3 mét, dài nhất mang lại không gian bên trong rộng rãi. Hệ thống dẫn động RWD mang đến cảm giác lái thể thao và hệ thống treo khí nén êm ái. Bảo hành đến 5 năm / 165.000km và được hưởng hệ sinh thái nhiều ngành nghề của VinGroup.
 
 - Bản đồ giá
 
-  ![Image]()
+  <img src ="price-map-luxa.png">
 
   VF Lux A, giá ngang với Mazda 6, thấp hơn Camry và Accord 200 triệu, nhưng có thể áp dụng voucher giảm thêm 200 triệu từ việc mua căn hộ Vinhome.
 
 - Doanh số bán hàng:
 
-  ![Image]()
+  <img src ="sale-luxa.png">
 
   Fadil có doanh số cao nhất năm 2021, chiếm % với xe được bán ra.
 
 Lux SA vs SUV:
 - So sánh trang bị từ brochure:
 
-  ![Image]()
+  <img src ="option-luxsa.png">
 
   Lux SA có điểm mạnh từ động cơ, hộp số, hệ thống treo, hệ thống khung gầm nguyên khối chắc chắn, hệ dẫn động cầu sau thể thao, chính sách bảo hành 5 năm và hệ sinh thái VinGroup.
 
 - Bản đồ giá
 
-  ![Image]()
+  <img src ="price-map-luxsa.png">
 
   Lux SA có giá bán cạnh tranh như nhau và có thể áp dụng voucher giảm thêm 200 triệu từ việc mua căn hộ Vinhome.
 
 - Doanh số bán hàng:
 
-  ![Image]()
+  <img src ="sale-luxsa.png">
 
   Fadil có doanh số cao nhất năm 2021, chiếm % với xe được bán ra.
 
