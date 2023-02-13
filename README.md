@@ -21,7 +21,7 @@ Theo nhiều nghiên cứu, các yếu tố ảnh hưởng đến quyết địn
 
   Kết quả khảo sát: 
 
-<img src ="https://github.com/Cong-hau/vf-hr-sale-policy-vnese-version/blob/1a87460ec6f523258aa569eedcd3b71ed79f8cf5/survey_result.png"> 
+<img src ="./survey_result.png"> 
 
 
 - Dữ liệu thứ cấp từ nguồn tạp chí xe hơi chính thống và báo cáo Hiệp hội các nhà sản xuất xe hơi Việt Nam (VAMA)
