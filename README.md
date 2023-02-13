@@ -2,7 +2,7 @@
 
 Thực hiện khảo sát khoa học đề tài: “Phân tích các yếu tố ảnh hưởng đến quyết định làm nhân viên kinh doanh ô tô VF tại TP.HCM 2021”.
 
-# 1. Đặt vấn đề
+# :briefcase: 1. Đặt vấn đề
 Mục tiêu: 
 - Yếu tố nào ảnh hưởng đến quyết định làm nhân viên kinh doanh.
 - Thực trạng các yếu tố so với mặt bằng chung.
@@ -10,7 +10,7 @@ Mục tiêu:
 Thời gian: quý 4 năm 2021
 
 Phương pháp: Định tính (nghiên cứu lý thuyết, tài liệu) kết hợp định lượng (đo lường thông qua khảo sát).
-# 2. Chuẩn bị dữ liệu
+# :books: 2. Chuẩn bị dữ liệu
 Theo nhiều nghiên cứu, các yếu tố ảnh hưởng đến quyết định làm việc của nhân viên bao gồm: Lương, thưởng, chế độ làm việc, đào tạo, văn hóa công ty, tầm nhìn sứ mệnh. Ngoài ra, với nhiều năm kinh nghiệm trong lĩnh vực này, tôi đề xuất yếu tố bổ sung là khả năng cạnh tranh của sản phẩm.
 
 - Dữ liệu sơ cấp thu thập từ kết quả khảo sát.
@@ -28,10 +28,10 @@ Theo nhiều nghiên cứu, các yếu tố ảnh hưởng đến quyết địn
 
   [Doanh số 2021- VAMA](http://vama.org.vn/Data/upload/files/2021/Thang12-2021/VAMA%20sales%20report%20December%202021%20-%20Detail.pdf)
 
-# 3. Xử lý dữ liệu
+# 📊 3. Xử lý dữ liệu
 - Làm sạch dữ liệu sơ cấp gồm: Xóa bỏ những dữ liệu sai, dữ liệu trùng lặp, dữ liệu trống, tùy chỉnh định dạng dữ liệu. Mã hóa bảng câu hỏi, bảng câu trả lời, dùng SPSS để phân tích độ tin cậy của bộ dữ liệu khảo sát.
 
-# 4. Phân tích thực trạng các yếu tố ảnh hưởng đến quyết định làm việc
+# 🔎 4. Phân tích thực trạng các yếu tố ảnh hưởng đến quyết định làm việc
 ## 4.1. Lương, thưởng
 |VinFast|Toyota|Kia|Mazda|Ford|Mitsubishi|Honda|Huyndai
 |:-----|:-----|:----|:----|:----|:----|:------|:----|
@@ -146,7 +146,7 @@ Từ dữ liệu khảo sát:
 Ngoài ra 70% đồng ý rằng trong năm 2022 sẽ tung ra hơn sản phẩm xe điện chủ lực là VF 8 và VF 9. Đó là một cú hích rất lớn trên thị trường và là cơ hội cho những saler mới gia nhập VF, có thể đứng trên ngọn sóng, nắm được cơ hội lớn từ nhu cầu thị trường.
 
 
-# 5. Kết luận và kiến nghị
+# ✔ 5. Kết luận và kiến nghị
 
 Kết luận: Từ năng lực cạnh tranh rất lớn của những dòng sản phẩm chủ lực Fadil, Lux A và Lux SA và sự kiện ra mắt 2 dòng xe điện đầu tiên của Việt Nam VF 8 và VF 9, kết hợp với yếu tố lương, thưởng dẫn đầu ngành, có thể kết luận rằng chính sách dành cho nhân viên kinh doanh của VinFast hết sức tiềm năng, là cơ hội lớn cho mọi ứng viên đón đầu.
 
