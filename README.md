@@ -1,4 +1,4 @@
-# VF Sale policies in HCM - Vietnamese version
+# VF Sale policies in HCM 2021 - Vietnamese version
 
 Thực hiện khảo sát khoa học đề tài: “Phân tích các yếu tố ảnh hưởng đến quyết định làm nhân viên kinh doanh ô tô VF tại TP.HCM 2021”.
 
@@ -11,7 +11,7 @@ Thời gian: quý 4 năm 2021
 
 Phương pháp: Định tính (nghiên cứu lý thuyết, tài liệu) kết hợp định lượng (đo lường thông qua khảo sát).
 # 2. Chuẩn bị dữ liệu
-Theo nhiều nghiên cứu, các yếu tố ảnh hưởng đến quyết định làm việc của nhân viên bao gồm: Lương, thưởng, chế độ làm việc, đào tạo, văn hóa công ty, tầm nhìn sứ mệnh. Ngoài ra, với nhiều năm kinh nghiệm trong lĩnh vực này, tôi đề xuất 2 yếu tố bổ sung là khả năng cạnh tranh của sản phẩm, mức độ cạnh tranh nội bộ.
+Theo nhiều nghiên cứu, các yếu tố ảnh hưởng đến quyết định làm việc của nhân viên bao gồm: Lương, thưởng, chế độ làm việc, đào tạo, văn hóa công ty, tầm nhìn sứ mệnh. Ngoài ra, với nhiều năm kinh nghiệm trong lĩnh vực này, tôi đề xuất yếu tố bổ sung là khả năng cạnh tranh của sản phẩm.
 
 - Dữ liệu sơ cấp thu thập từ kết quả khảo sát.
 
@@ -96,7 +96,7 @@ Fadil vs phân khúc A:
 
   <img src ="sale-fadil.png">
 
-  Fadil có doanh số cao nhất năm 2021, chiếm % với xe được bán ra.
+  Fadil có doanh số cao nhất năm 2021, chiếm 72.25% với 24.128 xe được bán ra.
 
 Lux A vs sedan hạng D:
 
@@ -116,7 +116,7 @@ Lux A vs sedan hạng D:
 
   <img src ="sale-luxa.png">
 
-  Fadil có doanh số cao nhất năm 2021, chiếm % với xe được bán ra.
+  Lux A có doanh số cao nhất năm 2021, chiếm 53.31% với 6.330 xe được bán ra.
 
 Lux SA vs SUV:
 - So sánh trang bị từ brochure:
@@ -135,12 +135,25 @@ Lux SA vs SUV:
 
   <img src ="sale-luxsa.png">
 
-  Fadil có doanh số cao nhất năm 2021, chiếm % với xe được bán ra.
+  Lux SA có doanh số thuộc nhóm cao nhất năm 2021, chiếm 13.3% với 5.180 xe được bán ra.
 
 Từ dữ liệu khảo sát:
 
-## 4.5. Mức độ cạnh tranh nội bộ
-# 5. Hạn chế và kiến nghị
+  <img src ="saler-opinion.png">
+
+  VinFast Saler cho rằng hơn 50% cho rằng top 1 xe chạy nhất là Fadil, top 2  Lux A và top 3 hoặc là VF e34 hoặc là VF Lux SA, điều này tương đồng với báo cáo doanh số của VinFast.
+
+Ngoài ra 70% đồng ý rằng trong năm 2022 sẽ tung ra hơn sản phẩm xe điện chủ lực là VF 8 và VF 9. Đó là một cú hích rất lớn trên thị trường và là cơ hội cho những saler mới gia nhập VF, có thể đứng trên ngọn sóng, nắm được cơ hội lớn từ nhu cầu thị trường.
+
+
+# 5. Kết luận và kiến nghị
+
+Kết luận: Từ năng lực cạnh tranh rất lớn của những dòng sản phẩm chủ lực Fadil, Lux A và Lux SA và sự kiện ra mắt 2 dòng xe điện đầu tiên của Việt Nam VF 8 và VF 9, kết hợp với yếu tố lương, thưởng dẫn đầu ngành, có thể kết luận rằng chính sách dành cho nhân viên kinh doanh của VinFast hết sức tiềm năng, là cơ hội lớn cho mọi ứng viên đón đầu.
+
+Hạn chế & Kiến nghị: 
+- Chưa đo lường được mối tương quan, hệ số tác động từ biến độc lập (lương thương, phúc lợi, sức cạnh tranh) dẫn đến quyết định làm việc
+- Cần chỉnh sửa bảng câu hỏi khảo sát bổ sung biến quan sát.
+
 
 
 
